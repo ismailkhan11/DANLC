@@ -1,0 +1,44 @@
+EMPLOYEE_ID,FULL NAME,HIRE_DATE,JOB_ID,SALARY,DEPARTMENT_ID,
+198,Donald Oconnell,21-Jun-07,SH_CLERK,2600,50,2600
+199,Douglas Whalen,13-Jan-08,SH_CLERK,2600,50,2600
+200,Jennifer Olmo Grant,17-Sep-03,AD_ASST,4400,10,4400
+201,Michael Hartstein,17-Feb-04,MK_MAN,13000,20,6000
+202,Pat Fay,17-Aug-05,MK_REP,6000,,6500
+203,Susan Mavris,07-Jun-02,HR_REP,6500,,8300
+204,Hermann Baer,07-Jun-02,PR_REP,10000,70,10000
+205,Shelley Higgins,07-Jun-02,AC_MGR,12008,110,12008
+206,William Gietz,07-Jun-02,AC_ACCOUNT,8300,110,13000
+,,,,,,
+,,SUM=>,65408,,,
+,,SUMIF=>,25008,,,
+,,MIN=>,2600,,,
+,,MAX=>,13000,,,
+,,AVERAGE=>,7267.555556,,,
+,,AVERAGEIF=>,5066.666667,,,
+,,COUNT=>,9,,,
+,,COUNTA=>,7,,,
+,,COUNTBLANK=>,2,,,
+,,POWER=>,100,,,
+,,CONCAT=>,206William Gietz,,,
+,,TRIM=>,Pat Fay,,,
+,,REPLACE=>,Rat Fay,,,
+,,LEFT=>,Jennifer,,,
+,,MID=>,Olmo,,,
+,,RIGHT=>,Grant,,,
+,,UPPER=>,WILLIAM GIETZ,,,
+,,LOWER=>,ac_account,,,
+,,DATE=>,01-08-2024 13:56,,,
+,,SECOND=>,23,,,
+,,MINUTE=>,56,,,
+,,HOUR=>,13,,,
+,,DAY=>,1,,,
+,,MONTH=>,8,,,
+,,YEAR=>,2024,,,
+,,INDEX=>,Michael Hartstein,,,
+,,MATCH=>,4,,,
+,,INDEX & MATCH=>,10000,,,
+,,INDEX & MATCH 2=>,PR_REP,,,
+,,MEAN=>,7267.555556,,,
+,,MEDIAN+>,6500,,,
+,,MODE=>,2600,,,
+,,IF=>,eligible,,,
